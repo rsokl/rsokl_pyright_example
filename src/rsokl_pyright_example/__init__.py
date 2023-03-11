@@ -1,4 +1,5 @@
-from typing import NewType
+from typing_extensions import NewType
+print("Using typing_extensions")
 
 __all__ = ["Apple"]
 
